@@ -1,4 +1,4 @@
-import ProductCard from "@/Components/ProductCard";
+import ProductCard from "@/components/ProductCard";
 
 export interface ProductRecord {
   WarehouseLocation: string;
